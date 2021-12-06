@@ -1,0 +1,5 @@
+The first thing we will want to do is make sure you have a text editor and the ability to run python programs. 
+
+For this I suggest Microsoft Visual Studio Code. It's the most popular text editor for coding, and it's what I use which will make it easier to pass on the knowledge. 
+
+After that we will make sure python3 is install on your MAC and we can then run some sample code. 
